@@ -1,0 +1,12 @@
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\bin\Debug\netcoreapp3.1\CSharpNews.exe
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\bin\Debug\netcoreapp3.1\CSharpNews.deps.json
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\bin\Debug\netcoreapp3.1\CSharpNews.runtimeconfig.json
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\bin\Debug\netcoreapp3.1\CSharpNews.runtimeconfig.dev.json
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\bin\Debug\netcoreapp3.1\CSharpNews.dll
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\bin\Debug\netcoreapp3.1\CSharpNews.pdb
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\obj\Debug\netcoreapp3.1\CSharpNews.csprojAssemblyReference.cache
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\obj\Debug\netcoreapp3.1\CSharpNews.AssemblyInfoInputs.cache
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\obj\Debug\netcoreapp3.1\CSharpNews.AssemblyInfo.cs
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\obj\Debug\netcoreapp3.1\CSharpNews.dll
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\obj\Debug\netcoreapp3.1\CSharpNews.pdb
+C:\Users\Dat Ngo\source\repos\ConsoleApp1\CSharpNews\obj\Debug\netcoreapp3.1\CSharpNews.genruntimeconfig.cache
